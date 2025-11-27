@@ -1,0 +1,18 @@
+[17-Nov-2025 19:15:24 UTC] PHP Warning:  require_once(includes/footer.phpn): failed to open stream: No such file or directory in /home/eialk/public_html/Mentor/2023_24.php on line 348
+[17-Nov-2025 19:15:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/footer.phpn' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/eialk/public_html/Mentor/2023_24.php on line 348
+[17-Nov-2025 19:28:39 UTC] PHP Warning:  require_once(includes/footers.php): failed to open stream: No such file or directory in /home/eialk/public_html/Mentor/2022_23.php on line 798
+[17-Nov-2025 19:28:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/footers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/eialk/public_html/Mentor/2022_23.php on line 798
+[17-Nov-2025 20:06:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on string in /home/eialk/public_html/Mentor/index.php:187
+Stack trace:
+#0 {main}
+  thrown in /home/eialk/public_html/Mentor/index.php on line 187
+[17-Nov-2025 20:06:46 UTC] PHP Notice:  Undefined variable: conn in /home/eialk/public_html/Mentor/index.php on line 190
+[17-Nov-2025 20:07:09 UTC] PHP Notice:  Undefined variable: conn in /home/eialk/public_html/Mentor/index.php on line 185
+[17-Nov-2025 20:08:20 UTC] PHP Notice:  Undefined variable: conn in /home/eialk/public_html/Mentor/index.php on line 185
+[17-Nov-2025 20:10:16 UTC] PHP Notice:  Undefined variable: conn in /home/eialk/public_html/Mentor/index.php on line 190
+[17-Nov-2025 20:11:16 UTC] PHP Notice:  Undefined variable: db in /home/eialk/public_html/Mentor/index.php on line 194
+[17-Nov-2025 20:11:52 UTC] PHP Notice:  Undefined variable: db in /home/eialk/public_html/Mentor/index.php on line 194
+[17-Nov-2025 20:45:30 UTC] PHP Notice:  Undefined index: about_section_cove in /home/eialk/public_html/Mentor/index.php on line 307
+[17-Nov-2025 20:49:55 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING) in /home/eialk/public_html/Mentor/index.php on line 177
+[19-Nov-2025 18:01:02 UTC] PHP Warning:  require_once(Mentor/includes/database.php): failed to open stream: No such file or directory in /home/eialk/public_html/Mentor/members.php on line 3
+[19-Nov-2025 18:01:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mentor/includes/database.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/eialk/public_html/Mentor/members.php on line 3
