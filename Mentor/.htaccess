@@ -1,0 +1,8 @@
+# Turn on the server's rewrite engine
+RewriteEngine On
+
+# This is the rule:
+# If the server receives a request for "reports.html"...
+RewriteRule ^reports\.html$ reports.php [L]
+# ...secretly run "reports.php" instead.
+# The user's browser URL will NOT change.
